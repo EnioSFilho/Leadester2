@@ -1,0 +1,22 @@
+{
+    "itens": [
+      {
+        "id": 1,
+        "nome": "Item 1",
+        "descricao": "Como aumetar sua Geração de Leads feat. Traktor",
+        "src": "/thumbnail.png"
+      },
+      {
+        "id": 2,
+        "nome": "Item 2",
+        "descricao": "Como aumetar sua Geração de Leads feat. Traktor",
+        "src": "/thumbnail.png"
+      },
+      {
+        "id": 3,
+        "nome": "Item 3",
+        "descricao": "Como aumetar sua Geração de Leads feat. Traktor",
+        "src": "/thumbnail.png"
+      }
+    ]
+  }

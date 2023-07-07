@@ -1,0 +1,55 @@
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.itens{
+    display: flex;
+}
+.itens a:hover{
+    border: 1px solid rgb(43, 116, 212);
+    background-color: rgb(43, 116, 212);
+    color: white;
+    transition: 1s;
+
+}
+.links a{
+    text-align: center;
+    border: 1px solid black;
+    margin: 2px;
+    border-radius: 20px;
+    padding: 5px;
+}
+.cards{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+.selected-page {
+    border: 2px solid rgb(43, 116, 212);
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+  }
+
+.pageItens a{
+    margin: 8px;
+    
+
+}

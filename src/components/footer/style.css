@@ -1,0 +1,57 @@
+.logoFooter{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.logoFooterText{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#logo{
+    width: 290px;
+}
+
+.footerOptions{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+   
+    margin-top: 50px;
+}
+
+.midias{
+    display: flex;
+    gap: 10px;
+    color: gray;
+    font-size: 30px;
+    
+}
+
+.primeiro p{
+    margin-bottom: 20px;
+}
+
+.rodape{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+    margin-top: 50px;
+}
+
+@media (max-width: 1196px){
+
+    .menu{
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
